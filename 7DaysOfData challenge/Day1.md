@@ -4,13 +4,13 @@
 Sort quantitative variables from low to high and scan for extremely low or extremely high values. Flag any extreme values that you find. This is a simple way to check whether or not you need to investigate certain data points before using more sophisticated methods.
 
 ### Example:
-Your dataset for a pilot experiment consists of eight values.
-
-180	156	9 176 163 1827 166 171
-
-You sort the values from low to high and scan for extreme values.
-
-9 156 163 166 171 176 180 **1872**
+> Your dataset for a pilot experiment consists of eight values.
+>
+> 180 156 9 176 163 1827 166 171
+>
+> You sort the values from low to high and scan for extreme values.
+>
+> 9 156 163 166 171 176 180 **1872**
 
 ## 2. Box-and-whisker plot
 We can use a software to visualize the data with a box plot or a box-and-whisker plot. helping us see the data distribution at a glance. The box plot highlights minimum and maximum values (the range), the median and the interquartile range for the data.
