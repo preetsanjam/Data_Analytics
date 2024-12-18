@@ -16,7 +16,7 @@ Evaluation metrics such as precision, recall, and F1 score are used  to evaluate
 - Decision Tree
 - Random Forest
 - K-Nearest Neighbours
-- Supoort Vector Machine
+- Support Vector Machine
 
 ## Regression algorithm
 In the regression tasks, we are supposed to predict a continuous target variable using independent features. We try to find the best fit line which can represent the overall trend in the data.
@@ -24,7 +24,7 @@ In the regression tasks, we are supposed to predict a continuous target variable
 Evaluation metrics such as Mean Squared Error (MSE), R-squared score and  Mean Absolute Percentage Error (MAPE) are used to evaluate the performance of the regression algorithms.
 
 **Examples**
-- House price predicion
+- House price prediction
 - Rainfall prediction
 - Sales prediction
 
@@ -34,5 +34,5 @@ Evaluation metrics such as Mean Squared Error (MSE), R-squared score and  Mean A
 - Lasso Regression
 - Decision Trees for Regression
 
-##### TechBYTE  
-WeChat or Weixin in Chinese is a messaging app developed by Tencent. There's a lot more to WeChat that messaging. It is used to read news, pay bills, order transport or food and run small businesses. 
+### TechBYTE 
+Tencent is a Chinese company founded in 1998. Tencent makes a lot of money via gaming. It is the largest video games publisher in the world. It has a stake in the two most popular Battle Royale-style games: Fortnite and PlayerUnknown's Battlegrounds (PubG).

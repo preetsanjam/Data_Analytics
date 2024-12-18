@@ -13,7 +13,7 @@ You sort the values from low to high and scan for extreme values.
 9 156 163 166 171 176 180 **1872**
 
 ## 2. Box-and-whisker plot
-We can use a software to visualize the data with a box plot or a box-and-whisker plot. helping us see the data distribution at a glance. The box plot highlights minimum and maximum values (the range), the median and the interquartile range for the data.
+We can use software to visualize the data with a box plot or a box-and-whisker plot. helping us see the data distribution at a glance. The box plot highlights minimum and maximum values (the range), the median and the interquartile range for the data.
 
 The box plot highlights an outlier on a chart with an asterisk, and these will lie outside the bounds of the graph.
 
@@ -24,5 +24,10 @@ We can convert extreme data points into z-scores that tell us how many standard 
 The interquartile range (IQR) tells us the range of the middle half of our dataset. We can use the IQR to create “fences” around the data and then define outliers as any values that fall outside those fences.
 
 IQR = Q1 - Q3
-Upper fence = Q3 + 1.5*IQR
-Lower fence = Q1 - 1.5*IQR
+
+Upper fence = Q3 + 1.5(IQR)
+
+Lower fence = Q1 - 1.5(IQR)
+
+### TechBYTE  
+WeChat or Weixin in Chinese is a messaging app developed by Tencent. There's a lot more to WeChat than messaging. It is used to read news, pay bills, order transport or food and run small businesses. 
