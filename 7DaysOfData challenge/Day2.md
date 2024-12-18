@@ -34,5 +34,5 @@ Evaluation metrics such as Mean Squared Error (MSE), R-squared score and  Mean A
 - Lasso Regression
 - Decision Trees for Regression
 
-| TechBYTE | 
-| WeChat or Weixin in Chinese is a messaging app developed by Tencent. There's a lot more to WeChat that messaging. It is used to read news, pay bills, order transport or food and run small businesses. | 
+##### TechBYTE  
+WeChat or Weixin in Chinese is a messaging app developed by Tencent. There's a lot more to WeChat that messaging. It is used to read news, pay bills, order transport or food and run small businesses. 
