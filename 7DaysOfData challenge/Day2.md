@@ -1,4 +1,4 @@
-# Describe the difference between a classification task and a regression task.
+# Describe the difference between a classification task and a regression task
 
 Both classification and regression tasks are examples of supervised machine learning algorithms. However, there are many differences between the two.
 
@@ -33,3 +33,6 @@ Evaluation metrics such as Mean Squared Error (MSE), R-squared score and  Mean A
 - Polynomial Regression
 - Lasso Regression
 - Decision Trees for Regression
+
+| TechBYTE | 
+| WeChat or Weixin in Chinese is a messaging app developed by Tencent. There's a lot more to WeChat that messaging. It is used to read news, pay bills, order transport or food and run small businesses. | 
