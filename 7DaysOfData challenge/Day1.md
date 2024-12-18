@@ -4,7 +4,7 @@
 Sort quantitative variables from low to high and scan for extremely low or extremely high values. Flag any extreme values that you find. This is a simple way to check whether or not you need to investigate certain data points before using more sophisticated methods.
 
 ### Example:
-Your dataset for a pilot experiment consists of eight values.
+Your dataset for a pilot experiment consists of eight different values.
 
 180 156 9 176 163 1827 166 171
 
