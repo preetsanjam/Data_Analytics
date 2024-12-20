@@ -15,5 +15,8 @@ Another major difference between decision tree regressors and classifiers is the
 
 **Gini index** is another measure of the uncertainty in a dataset. It is calculated by taking the sum of the squares of the probabilities of each class.
 
+### TechBYTE
+Amazon drivers went on strike in four states across the US on Thursday (Dec 19, 2024) with less than a week to go before Christmas – but the company is saying it’s not going to affect the holiday deliveries. Members of the Teamsters union are striking at seven facilities across four states, and even though the Teamsters claim to represent 7,000 Amazon workers nationwide, that accounts for less than 1% of the company’s US workforce. The International Brotherhood of Teamsters said unionized workers at facilities in New York City; Skokie, Illinois; Atlanta, San Francisco and southern California will join the picket line to seek contracts guaranteeing better wages and work conditions.
+
 
 
