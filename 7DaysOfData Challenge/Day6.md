@@ -15,9 +15,13 @@ Gradient Boosting is a powerful boosting algorithm that combines several weak le
 
 In contrast to AdaBoost, the weights of the training instances are not tweaked, instead, each predictor is trained using the residual errors of the predecessor as labels.
 
-Gradient Boosting relies on the intuition that the next model, when combined with the previous model, minimises the overall prediction error. In Gradient Boosting, we don't predict actual labels of the data at each iteration. Instead, we try to predict the **residual** errors made by the previous predictor. 
+Gradient Boosting relies on the intuition that the next model, when combined with the previous model, minimizes the overall prediction error. In Gradient Boosting, we don't predict actual labels of the data at each iteration. Instead, we try to predict the **residual** errors made by the previous predictor. 
 
 ## Extreme Gradient Boost Machine (XGBM)
 Extreme Gradient Boosting or XGBoost is simply an improvised version of the GBM algorithm. The working procedure of XGBoost is the same as the GBM. The trees in XGBoost are built sequentially, trying to correct the errors of the previous trees. The main concentration in XGBoost is **speed enhancement** and **model performance**.
 
+### TechBYTE
+**US v. Google:** On August 5, 2024, a federal judge, Judge Amit Mehta, ruled in the case of United States of America v. Google, saying, “...the court reaches the following conclusion: Google is a monopolist, and it has acted as one to maintain its monopoly. It has violated Section 2 of the Sherman Act.”
+
+Judge Amit Mehta’s decision represents a major victory for the Department of Justice, which accused Google of illegally monopolizing the online search market. Still, Mehta did not agree with all of the government’s arguments. For example, he rejected the claim that Google has monopoly power in one specific part of the ads market. He agreed with the government, however, that Google has a monopoly in “general search services” and “general search text advertising”.
 
