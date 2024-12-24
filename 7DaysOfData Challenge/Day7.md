@@ -19,7 +19,7 @@ Likelihood calculation involves calculating the best distribution or best charac
 
 Consider the exactly same dataset example as provided above for probability, if their likelihood of height > 170 cm has to be calculated then it will be done using the information shown below:
 
-Likelihood(mu = 170, sigma = 3.5 | height > 170)
+>Likelihood(mu = 170, sigma = 3.5 | height > 170)
 
 In the calculation of the Likelihood, the equation of the conditional probability flips as compared to the equation in the probability calculation.
 
