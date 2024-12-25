@@ -11,9 +11,13 @@ Another major difference between decision tree regressors and classifiers is the
 ### What is MSE and Entropy(Gini Index)?
 **MSE** is a measure of how far apart the predicted values are from the actual values. It is calculated by taking the average of the squared differences between the predicted and actual values.
 
-**Entropy** is a measure of the uncertainty in a dataset. 
+**Entropy** is a measure of the uncertainty in a dataset. In the most layman terms, entropy is nothing but the measure of disorder. It can be thought of as a measure of purity as well.
 
-**Gini index** is another measure of the uncertainty in a dataset. It is calculated by taking the sum of the squares of the probabilities of each class. Its values ranges from 0 and 1. 
+Entropy of 0.88 means a high level of disorder or low level of purity. A higher entropy value indicates a more heterogeneous dataset with diverse classes. A lower entropy signifies a more pure and homogeneous subset of data. 
+
+Entropy is a measure of randomness in the information being processed. The higher the entropy, the harder it is to draw any conclusions from that information.
+
+**Gini index** is another measure of the uncertainty in a dataset. It is calculated by taking the sum of the squares of the probabilities of each class. Its value ranges from 0 and 1. 
 
 Gini index = 0 means completely pure dataset (all elements are identical)
 
