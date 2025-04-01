@@ -30,6 +30,13 @@ Unlike bagging, boosting does not rely on bootstrapped subsets of the data. Inst
 
 One of the significant advantages of boosting is its ability to handle complex relationships in the data and improve the performance of weak learners significantly. Boosting often outperforms bagging when it comes to reducing both bias and variance, with a focus on reducing bias by sequentially correcting mistakes made by weak learners. However, boosting is more sensitive to noisy data and outliers compared to bagging.
 
+**Conclusion**
+- **Bagging** reduces variance by training multiple models on random subsets of data and averaging their predictions.
+- It works best for high-variance models like decision trees, while boosting excels when the model underfits.
+
+- **Boosting** reduces bias by training models sequentially, where each model focuses on correcting the errors of the previous one.
+- It can overfit noisy data if not properly regularized, while bagging is more robust to overfitting.
+
 ### TechBYTE
 A federal regulator sued JPMorgan Chase, Wells Fargo and Bank of America on Friday (December 20, 2024), claiming the banks failed to protect hundreds of thousands of consumers from rampant fraud on the popular payments network Zelle, in violation of consumer financial laws. In the federal civil complaint, the Consumer Financial Protection Bureau asserts that the banks rushed to get the peer-to-peer payments platform to market without effective safeguards against fraud and then, after consumers complained about being defrauded on the service, largely denied them relief.
 
