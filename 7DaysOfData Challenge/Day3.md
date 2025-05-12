@@ -25,8 +25,4 @@ Gini index = 1 means wholly impure dataset (all elements are distinct)
 
 In decision trees, the Gini index plays a pivotal role as a criterion for assessing the quality of binary splits. An attribute with a lower Gini index should be preferred, i.e., the lower the Gini impurity, the better the feature is for splitting the dataset. The Gini impurity value of 0.45 represents that there is a 45% chance of misclassifying a sample if we were to randomly assign a label from the dataset to that sample.
 
-### TechBYTE
-Amazon drivers went on strike in four states across the US on Thursday (Dec 19, 2024) with less than a week to go before Christmas – but the company is saying it’s not going to affect the holiday deliveries. Members of the Teamsters union are striking at seven facilities across four states, and even though the Teamsters claim to represent 7,000 Amazon workers nationwide, that accounts for less than 1% of the company’s US workforce. The International Brotherhood of Teamsters said unionized workers at facilities in New York City; Skokie, Illinois; Atlanta, San Francisco and southern California will join the picket line to seek contracts guaranteeing better wages and work conditions.
-
-
 

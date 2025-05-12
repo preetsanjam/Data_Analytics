@@ -35,7 +35,3 @@ One of the significant advantages of boosting is its ability to handle complex r
 
 - **Boosting** reduces bias by training models sequentially, where each model focuses on correcting the errors of the previous one. It can overfit noisy data if not properly regularized, while bagging is more robust to overfitting.
 
-### TechBYTE
-A federal regulator sued JPMorgan Chase, Wells Fargo and Bank of America on Friday (December 20, 2024), claiming the banks failed to protect hundreds of thousands of consumers from rampant fraud on the popular payments network Zelle, in violation of consumer financial laws. In the federal civil complaint, the Consumer Financial Protection Bureau asserts that the banks rushed to get the peer-to-peer payments platform to market without effective safeguards against fraud and then, after consumers complained about being defrauded on the service, largely denied them relief.
-
-

@@ -28,6 +28,3 @@ IQR = Q1 - Q3
 Upper fence = Q3 + 1.5(IQR)
 
 Lower fence = Q1 - 1.5(IQR)
-
-### TechBYTE  
-WeChat or Weixin in Chinese is a messaging app developed by Tencent. There's a lot more to WeChat than messaging. It is used to read news, pay bills, order transport or food and run small businesses. 

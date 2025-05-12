@@ -34,7 +34,3 @@ Probability is the measure of a specific event or an outcome occurring. It is ab
 
 Likelihood is applied when we want to increase the outcome of a specific event or an outcome occurring. It is about hypotheses. 
 
-### TechBYTE
-**Honda and Nissan plan to merge:** Honda and Nissan have announced plans to merge as the Japanese automakers struggle with competition from rival brands in the electric vehicle market. The two companies confirmed on Monday (Dec 23, 2024) that they had signed a memorandum of understanding that would create the third largest car maker by sales, behind Toyota and Volkswagen.
-
-Nissan alliance member Mitsubishi Motors is also in talks with Honda and Nissan to join the integration, with a decision expected by the end of January. Based on the market capital of all three companies, a finalized merger could result in an entity worth more than 50 billion dollars. Honda will initially lead the management of the merged company according to Honda president, Toshihiro Mibe, with the aim to complete a formal merger agreement by June and finalize the deal by August 2026.

@@ -34,5 +34,3 @@ Evaluation metrics such as Mean Squared Error (MSE), R-squared score and  Mean A
 - Lasso Regression
 - Decision Trees for Regression
 
-### TechBYTE 
-Tencent is a Chinese company founded in 1998. Tencent makes a lot of money via gaming. It is the largest video games publisher in the world. It has a stake in the two most popular Battle Royale-style games: Fortnite and PlayerUnknown's Battlegrounds (PubG).

@@ -24,9 +24,3 @@ Much as people might rely on different sources to make a prediction, each decisi
 - Reduced risk of overfitting
 - Provides flexibility: Random forest can handle both regression and classification tasks
 - Easy to determine feature importance
-
-### TechBYTE
-Qualcomm wins a legal battle over Arm chip licensing. A federal jury in Delaware determined on Friday (Dec 20, 2024) that Qualcomm didn’t breach its agreement with Arm through its 2021 acquisition of Nuvia, a startup founded by three former Apple engineers. The decision stems from a two-year-long legal battle that accused Qualcomm of misusing the chip designs Arm licensed to Nuvia before its acquisition.
-
-In 2022, Arm ignited a legal battle after Qualcomm continued to pay its existing royalty fees to Arm, which were allegedly much lower than what Nuvia was paying. After the two failed to come to an agreement, Arm argued the designs licensed to Nuvia were no longer valid, and that Qualcomm should destroy the technology created with them.
-
